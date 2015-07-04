@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AndroidApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="MuteButton">Mute</string>
+    <string name="SourceButton">Source</string>
+    <string name="PadButton">Pad</string>
+    <string name="ChannelDownButton">-</string>
+    <string name="ChannelUpButton">+</string>
+    <string name="VolUpButton">+</string>
+    <string name="VolDownButton">-</string>
+
+</resources>
